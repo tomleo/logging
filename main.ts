@@ -6,7 +6,7 @@
  *
  * @example
  * ```ts
- * import * as logging from "@tomleo/logging";
+ * import * as logging from "jsr:@tomleo/logging";
  * const logger = logging.createLogger(logging.DEBUG)
  * logger.debug("Hello World");
  * ```

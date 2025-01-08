@@ -1,8 +1,11 @@
 # Logging
 
-## Local Development
+Basic logging wrapper around `console.log`
 
-### Install Just
+[![JSR](https://jsr.io/badges/@<scope>/<package>)](https://jsr.io/@<scope>/<package>)
 
-See https://just.systems/man/en/packages.html (for MacOS `brew install just`,
-and for Ubuntu `apt install just`)
+## Installation
+
+```
+deno install jsr:@tomleo/logging
+```
