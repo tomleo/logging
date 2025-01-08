@@ -16,11 +16,18 @@ confidence, respect, and kindness.
 To help cultivate an inclusive environment, we ask that all participants in the
 project adhere to the following principles:
 
-- **Be respectful**: Treat others with kindness, courtesy, and consideration. Be mindful of diverse experiences and backgrounds.
-- **Be constructive**: When offering feedback or suggestions, be helpful and considerate. If you're suggesting improvements or changes, do so with the intention to make the project better for everyone.
-- **Be open-minded**: Embrace diverse perspectives and be open to learning from others.
-- **Be kind to new contributors**: Open source thrives on contributions from people at all levels of experience. Encourage and support newcomers to our community.
-- **Be accountable**: Take responsibility for your words and actions. If you make a mistake, own it, learn from it, and try to do better.
+- **Be respectful**: Treat others with kindness, courtesy, and consideration. Be
+  mindful of diverse experiences and backgrounds.
+- **Be constructive**: When offering feedback or suggestions, be helpful and
+  considerate. If you're suggesting improvements or changes, do so with the
+  intention to make the project better for everyone.
+- **Be open-minded**: Embrace diverse perspectives and be open to learning from
+  others.
+- **Be kind to new contributors**: Open source thrives on contributions from
+  people at all levels of experience. Encourage and support newcomers to our
+  community.
+- **Be accountable**: Take responsibility for your words and actions. If you
+  make a mistake, own it, learn from it, and try to do better.
 
 ## Unacceptable Behavior
 
@@ -29,7 +36,8 @@ harmful. Examples of unacceptable behavior include, but are not limited to:
 
 - Harassment, bullying, or threats of any kind
 - Personal attacks or name-calling
-- Discrimination based on race, gender, sexual orientation, disability, age, or any other protected status
+- Discrimination based on race, gender, sexual orientation, disability, age, or
+  any other protected status
 - Toxic, dismissive, or demeaning behavior
 - Spamming or trolling
 - Inappropriate or offensive language or imagery

@@ -12,8 +12,8 @@
   },
   "publish": {
     "include": [
-        "README.md",
-        "main.ts"
+      "README.md",
+      "main.ts"
     ]
   }
 }
