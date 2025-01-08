@@ -1,3 +1,17 @@
+/**
+ * @module
+ *
+ * This module contains a createLogger function which wraps console.log only
+ * outputting log statements at or above the passed in log-level
+ *
+ * @example
+ * ```ts
+ * import * as logging from "@tomleo/logging";
+ * const logger = logging.createLogger(logging.DEBUG)
+ * logger.debug("Hello World");
+ * ```
+ */
+
 // deno-lint-ignore-file no-explicit-any
 export const DEBUG = 10;
 export const INFO = 20;
@@ -20,6 +34,10 @@ type Logger = {
   critical(...msgs: any[]): void;
 };
 
+/**
+ * @param level The log level for this instance
+ * @returns Logger object
+ */
 export function createLogger(level: Levels): Logger {
   return {
     debug(...msgs: any[]): void {
